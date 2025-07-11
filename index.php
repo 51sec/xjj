@@ -1,3 +1,3 @@
 <?php
-    readfile("your_file.html");
+    readfile("index.html");
 ?>
